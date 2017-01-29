@@ -24,10 +24,8 @@ MyInfo
 Mkd    
 
 
-LifeCur 
-
+LifeCur  
 ygz  
-
 MyFnc  
  
 
