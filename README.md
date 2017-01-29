@@ -2,19 +2,55 @@ GroupList
 
 ---
 
-NewBas: NewBase
+New  
 
-EttBas:  EnertainmentBase
+Ett    
 
-EvernoteUse: EvUse  
-EvernoteDevelopement: EvDev
+EvUse  
+EvDev  
 
 [EECSGrp](EECSGrp.md)
 
 InfoMng  
 MyInfo
 
-MkdBas  
+Mkd    
 
 
+LifeCur 
+
+ygz  
+
+MyFnc  
+ 
+
+Ren  
+RelExp 
+
+
+Bsns  
+BsnsINet  
+
+Sct  
+SctCase   
+
+IndList  
+
+
+Tao  
+
+Lear  
+
+Fnc  
+
+Body  
+
+Game  
+
+Wm  
+
+SQLSvr  
+
+
+ 
  
