@@ -9,7 +9,7 @@ EttBas:  EnertainmentBase
 EvernoteUse: EvUse  
 EvernoteDevelopement: EvDev
 
-[EECSGrp](eecsgrp.txt)
+[EECSGrp](eecsgrp.md)
 
 InfoMng  
 MyInfo
