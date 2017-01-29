@@ -3,7 +3,7 @@ GroupList
 ---
 
 New  
-是
+ 
 ---
 
 ComNet  
