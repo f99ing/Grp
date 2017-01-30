@@ -8,20 +8,41 @@ New
 ###Engi  
 [EECSGrp](EECSGrp.md)  
 ####EECS  
+ComArch  
+OpeSys  
+Algo  
+Cpl  
 ComNet  
+
+AssLang   
+
+Cloud
+SQLSvr  
+IOSDev  
+
+HtmlCss  
+JS  
+
 Git  
+
 ComUse  
 WinCmd  
-SQLSvr  
+VMWare  
+---
+Lea  
+Edu
 
-
-Lear  
 Info  
 MyInfo
 EvUse  
 EvDev  
 Mkd    
 Book  
+
+Math  
+Phy  
+Chem  
+Bio  
 
 Eng  
 Jap  
@@ -31,31 +52,59 @@ Kor
 LifeCur  
 ygz  
 MyFnc  
+HairRemoval  
 
 Ett    
 Game  
 
+
+Apple  
+Google  
+Microsoft  
+Intel  
+Dell  
+
+Chrome  
 Taobao  
+BaiduPan  
+
 
 Ren  
-RelExp 
+RenAtc  
+RelExp  
+Comm  
+
+sycho  
 
 Sct  
 SctCase   
+SctCn    
+SctUS  
 
-IndList  
-Bsns  
-BsnsINet  
-BsnsAtc 
+IndList    
+Bsns     
+BsnsAtc  
+BsnsEECS  
+Mngmt       
 
 Tao  
-TaoAtc
+TaoAtc  
 
 Fnc  
+FncAtc  
 
 Body  
+BodyAtc     
+
+Migr  
+
+Sec  
+SecTech       
+GWOffline  
+VN  
 
 Wm  
+
 
   
 
