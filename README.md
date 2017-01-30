@@ -5,7 +5,14 @@ GroupList
 New  
  
 ---
-Engi  
+####Engi  
+EECS
+ComNet  
+Git  
+ComUse  
+WinCmd  
+SQLSvr  
+
 Book  
 
 Eng  
@@ -15,15 +22,12 @@ Kor
 
 BsnsAtc 
 
-ComNet  
-Git  
-ComUse  
-WinCmd  
 
 Ett    
 
 EvUse  
 EvDev  
+
 
 [EECSGrp](EECSGrp.md)
 
@@ -65,7 +69,7 @@ Game
 
 Wm  
 
-SQLSvr  
+  
 
 
  
