@@ -6,8 +6,8 @@ New
  
 ---
 ####Engi  
-EECS
-ComNet  
+EECS  
+ComNet  
 Git  
 ComUse  
 WinCmd  
