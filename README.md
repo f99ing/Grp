@@ -24,7 +24,7 @@ SQLSvr
 IOSDev  
 
 Web  
-WebSvr
+WebSvr  
 Brs  
 HtmlCss  
 JS  
@@ -32,6 +32,7 @@ JS
 Git  
 
 ComUse  
+Win  
 WinCmd  
 VMWare  
 ---
@@ -82,10 +83,10 @@ Rel
 RelExp  
 Comm  
 
-Poli
-Soci
-sycho  
-
+Poli  
+Soci  
+sycho    
+  
 Sct  
 SctCase   
 SctCn    
