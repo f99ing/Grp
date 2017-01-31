@@ -14,12 +14,18 @@ Algo
 Cpl  
 ComNet  
 
+Coding     
+
 AssLang   
 
-Cloud
+Cloud  
+Db  
 SQLSvr  
 IOSDev  
 
+Web  
+WebSvr
+Brs  
 HtmlCss  
 JS  
 
@@ -30,19 +36,21 @@ WinCmd
 VMWare  
 ---
 Lea  
-Edu
+Edu  
 
 Info  
-MyInfo
+MyInfo  
 EvUse  
 EvDev  
 Mkd    
 Book  
+Store
 
 Math  
 Phy  
 Chem  
 Bio  
+Plant  
 
 Eng  
 Jap  
@@ -68,12 +76,14 @@ Chrome
 Taobao  
 BaiduPan  
 
-
 Ren  
 RenAtc  
+Rel  
 RelExp  
 Comm  
 
+Poli
+Soci
 sycho  
 
 Sct  
@@ -81,11 +91,20 @@ SctCase
 SctCn    
 SctUS  
 
-IndList    
-Bsns     
-BsnsAtc  
-BsnsEECS  
+war
+
+hist  
+
+Geo  
+City  
+
+IndList  
+IndEEcs  
+Bsns       
+BsnsEEcs  
 Mngmt       
+Sales  
+
 
 Tao  
 TaoAtc  
@@ -95,6 +114,8 @@ FncAtc
 
 Body  
 BodyAtc     
+Cold  
+MarArt
 
 Migr  
 
@@ -105,6 +126,12 @@ VN
 
 Wm  
 
+Art  
+Draw  
+Sing  
+ps  
+
+Country
 
   
 
