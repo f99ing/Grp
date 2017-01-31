@@ -10,7 +10,7 @@ New
 ####EECS  
 ComArch  
 OpeSys  
-Algo  
+Alg    
 Cpl  
 ComNet  
 
@@ -21,23 +21,58 @@ AssLang
 Cloud  
 Db  
 SQLSvr  
+MySql  
+
 IOSDev  
+IOSUse
+
+AndroidDev
+AndroidUse
+
+Java  
+CLang  
+CPPLang  
+Dotnet  
+PHP  
 
 Web  
 WebSvr  
-Brs  
+Browser  
 HtmlCss  
 JS  
 
+UML  
+
+VCS
 Git  
 
+Linux  
+
+Xamarin  
+
+Xml  
+
+OpenGL  
+DirectX  
+
 ComUse  
+
+WinDev        
 Win  
+WinApp  
 WinCmd  
+AHK  
+
+VM  
+VirtualBox  
 VMWare  
+
+MobSys            
+ 
 ---
-Lea  
+
 Edu  
+Lea  
 
 Info  
 MyInfo  
@@ -57,6 +92,8 @@ Eng
 Jap  
 Chi  
 Kor  
+
+Idea  
 
 LifeCur  
 ygz  
