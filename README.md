@@ -87,6 +87,7 @@ Phy
 Chem  
 Bio  
 Plant  
+Animal  
 
 Eng  
 Jap  
@@ -100,6 +101,7 @@ ygz
 MyFnc  
 HairRemoval  
 
+Fun  
 Ett    
 Game  
 
@@ -108,6 +110,7 @@ Apple
 Google  
 Microsoft  
 Intel  
+Adobe  
 Dell  
 
 Chrome  
@@ -119,6 +122,7 @@ RenAtc
 Rel  
 RelExp  
 Comm  
+Law  
 
 Poli  
 Soci  
