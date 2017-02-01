@@ -26,7 +26,7 @@ MySql
 IOSDev  
 IOSUse
 
-AndroidDev
+AndroidDev  
 AndroidUse
 
 Java  
@@ -43,7 +43,7 @@ JS
 
 UML  
 
-VCS
+VCS  
 Git  
 
 Linux  
