@@ -144,7 +144,7 @@ IndList
 IndEEcs  
 Bsns       
 BsnsEEcs  
-Mngmt       
+Mng       
 Sales  
 
 
