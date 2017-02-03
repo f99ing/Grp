@@ -3,13 +3,15 @@
 ---
 
 New  
- 
+Car  
 ---
 ###Engi  
 [EECSGrp](EECSGrp.md)  
+ProductDes    
 ####EECS  
 ComArch  
 OpeSys  
+Minix  
 Alg    
 Cpl  
 ComNet  
@@ -34,17 +36,21 @@ CLang
 CPPLang  
 Dotnet  
 PHP  
+Perl  
 
 Web  
 WebSvr  
 Browser  
-HtmlCss  
+Html  
+Css  
 JS  
 
 UML  
 
 VCS  
+SVN  
 Git  
+Github  
 
 Linux  
 
@@ -56,6 +62,7 @@ OpenGL
 DirectX  
 
 ComUse  
+Phone  
 
 WinDev        
 Win  
@@ -75,7 +82,6 @@ Edu
 Lea  
 
 Info  
-MyInfo  
 EvUse  
 EvDev  
 Mkd    
@@ -89,6 +95,8 @@ Bio
 Plant  
 Animal  
 
+Expr  
+Lang  
 Eng  
 Jap  
 Chi  
@@ -104,10 +112,15 @@ HairRemoval
 Fun  
 Ett    
 Game  
+Music  
 
+Svc  
+House  
 
 Apple  
 Google  
+Oracle  
+IBM  
 Microsoft  
 Intel  
 Adobe  
@@ -118,7 +131,6 @@ Taobao
 BaiduPan  
 
 Ren  
-RenAtc  
 Rel  
 RelExp  
 Comm  
@@ -140,13 +152,14 @@ hist
 Geo  
 City  
 
-IndList  
+Ind  
 IndEEcs  
 Bsns       
 BsnsEEcs  
 Mng       
 Sales  
-
+CusSer  
+Mkt  
 
 Tao  
 TaoAtc  
@@ -171,11 +184,19 @@ Wm
 Art  
 Draw  
 Sing  
+Dance  
 ps  
 
 Country
 
-  
+MyRel  
+MyInfo  
+MyComputer  
+MyHouse  
+MyPhone  
+TaHome  
+
+Cheat  
 
 
  
