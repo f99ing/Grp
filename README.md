@@ -41,6 +41,7 @@ Perl
 Web  
 WebSvr  
 Browser  
+WebPage  
 Html  
 Css  
 JS  
@@ -69,6 +70,7 @@ Win
 WinApp  
 WinCmd  
 AHK  
+InputMethod  
 
 VM  
 VirtualBox  
@@ -105,6 +107,7 @@ Kor
 Idea  
 
 LifeCur  
+shp  
 ygz  
 MyFnc  
 HairRemoval  
@@ -167,8 +170,8 @@ TaoAtc
 Fnc  
 FncAtc  
 
-Body  
-BodyAtc     
+Body      
+Sport    
 Cold  
 MarArt
 
